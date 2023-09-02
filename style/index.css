@@ -185,6 +185,9 @@ main, .footer{
     padding: 1rem 0;
     line-height: 1.8;
 }
+.features{
+    margin-top: 10rem;
+}
 .features .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(30rem,1fr));
